@@ -14,7 +14,7 @@ Rank 02 of the 42 curriculum: stack sorting, UNIX signal communication, 2D graph
 | 📚 [push_swap](https://github.com/MariaBarreiro/42_Push_Swap) | **84/100** | ~50 h | Sorting stacks with limited operations |
 | 📡 [minitalk](https://github.com/MariaBarreiro/42_Minitalk) | **125/125** | ~50 h | UNIX signals and data exchange |
 | 🎮 [so_long](https://github.com/MariaBarreiro/42_So_Long) | **100/100** | ~60 h | 2D game development with MiniLibX |
-| ⏱️ [Exam Rank 02](https://projects.intra.42.fr/projects/exam-rank-02) | **100/100** | 0 days reported | Programming assessment |
+| ⏱️ [Exam Rank 02](https://projects.intra.42.fr/projects/exam-rank-02) | **100/100** | 7 days reported | Programming assessment |
 
 **Total: 409/425 · about 160 project hours, plus the exam**
 
@@ -103,6 +103,6 @@ The repository includes MiniLibX, Libft, and sample maps.
 > A timed assessment of programming ability and knowledge.
 
 ![Grade](https://img.shields.io/badge/Grade-100%2F100-brightgreen?style=flat-square)
-![Time](https://img.shields.io/badge/Time-0%20days%20reported-lightgrey?style=flat-square)
+![Time](https://img.shields.io/badge/Time-7%20days%20reported-lightgrey?style=flat-square)
 
 This exam is completed in the 42 exam environment. The tasks are compiled and evaluated there; no GitHub repository was included in this Rank 02 list.
